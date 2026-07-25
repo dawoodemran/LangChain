@@ -13,3 +13,6 @@ wheels/
 .env
 .env.*
 !.env.example
+
+# Local SQLite databases
+Part_3/SalesDB/*.db
